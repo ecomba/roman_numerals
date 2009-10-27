@@ -1,0 +1,14 @@
+Roman numerals Kata (RubyQuiz #22)
+Author: Enrique Comba Riepenhausen
+
+I present here only an empty (lib/roman_numerals.rb) file where you will have to add your code
+as you go.
+
+There is also a spec file (spec/roman_numerals_spec.rb) where you can find a bunch of tests 
+that assert that your code is running properly. All but the first example are commented out
+(using the xit notation). Don't forget to remove the x infront of the it to activate the
+next example.
+
+Have fun!
+
+Enrique
