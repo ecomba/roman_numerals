@@ -20,6 +20,9 @@ describe "Roman Numerals" do
     xit "converts 5 to the roman numeral V" do
       5.to_roman.should == "V"
     end
+    xit "converts 8 to the roman numeral VIII" do
+      8.to_roman.should == "VIII"
+    end
   end
 
   context "from 9 to 39" do
